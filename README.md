@@ -1,8 +1,34 @@
-# React + Vite
+<h1>📒 NoteX - Your Digital Notebook</h1>
+<br>
+<p>A simple and efficient note-taking web application built using React.js and Redux. NoteX allows users to create, edit, copy, and manage notes seamlessly with an intuitive user interface.</p>
+<br><br>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>🚀 Features</h2>
 
-Currently, two official plugins are available:
+<pre>
+✅ Create Notes – Add new notes with a title and content.
+✅ Edit & Update – Modify existing notes easily.
+✅ Copy to Clipboard – Quickly copy the note's content with a single click.
+✅ Real-time Toast Notifications – Get instant feedback for actions.
+✅ Modern & Responsive UI – Works smoothly on all devices.
+</pre>
+<br><br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🛠️ Tech Stack</h2>
+<pre>
+🔹 Frontend: React.js, Redux, React Router
+🔹 UI Components: Tailwind CSS, Lucide Icons
+🔹 State Management: Redux Toolkit
+🔹 Notifications: React Hot Toast
+</pre>
+<br><br>
+
+<h2>💡 Future Enhancements</h2>
+
+<pre>
+🔹 User Authentication (Sign In/Sign Up)
+🔹 Database Integration (MongoDB/Firebase)
+🔹 Dark Mode Support
+🔹 Drag & Drop Note Management
+</pre>
+<br>
